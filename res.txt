@@ -1,0 +1,7 @@
+Index 			 Name 				 Code
+-----------------------------------------------------------------------------------------------
+0			 Name: cat			 Code: 15
+1			 Name: APPLE			 Code: 11
+2			 Name: Dog			 Code: 5
+3			 Name: DOnE			 Code: 21
+4			 Name: Over			 Code: 8

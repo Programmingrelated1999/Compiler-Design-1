@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ReserveTable
+comment1.params=maxSize
+comment1.target=ReserveTable(int)
+comment2.params=name\ code
+comment2.target=int\ Add(java.lang.String,\ int)
+comment3.params=name
+comment3.target=int\ LookupName(java.lang.String)
+comment4.params=code
+comment4.target=java.lang.String\ LookupCode(int)
+comment5.params=filename
+comment5.target=void\ PrintReserveTable(java.lang.String)
+numComments=6
